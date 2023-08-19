@@ -1,0 +1,16 @@
+.p2{
+    background-color: rgb(226, 104, 104);
+}
+.me {
+    font-family: Arial;
+    float: none;
+    color: black;
+    list-style-type: none;
+    display: flex;
+    background-color: rgb(243, 190, 92);
+    margin: 1%;
+    padding: 1%;
+    justify-content:space-around;
+    margin-right: 25px;
+    font-size: 30px;
+}
